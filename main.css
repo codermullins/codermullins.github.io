@@ -7,6 +7,11 @@ body{
     
 }
 
+#lIcon {
+    max-width: 50px;
+    max-height: 40px;
+}
+
 #heTitle{
     text-shadow:2px 2px blue;
 }
