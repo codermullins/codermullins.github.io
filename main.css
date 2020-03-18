@@ -1,10 +1,16 @@
 body{
-    background-image: url('markus-spiske-iar-afB0QQw-unsplash.jpg');
+    background-image: url(/pictures/markus-spiske-iar-afB0QQw-unsplash.jpg);
     background-size: cover;
+    background-position: center;
+    padding-top: 70px;
     
 }
 
-#title{
+#heTitle{
+    text-shadow:2px 2px blue;
+}
+
+#pgFont{
     text-shadow:2px 2px blue;
 }
 
