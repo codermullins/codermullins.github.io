@@ -2,6 +2,7 @@ body{
     background-image: url(/pictures/markus-spiske-iar-afB0QQw-unsplash.jpg);
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
     padding-top: 70px;
     
 }
